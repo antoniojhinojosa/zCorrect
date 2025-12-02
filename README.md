@@ -1,5 +1,13 @@
 # zCorrect
 
+## Note about this repository
+
+This is a fork of the Lagnado Lab repository containing the code used in our study.  
+I did not write this code myself, but I contributed to the conceptual design and model interpretation.  
+
+I am sharing this fork so that my work and the underlying code are accessible together.
+##
+
 Collection of procedures for the estimation of z-displacement and correction of population activity for resulting intensity changes
 
 Experimental Acquisition and Data Handling Note;
